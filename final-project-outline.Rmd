@@ -1,6 +1,6 @@
 ---
 title: "Final Project Basic Outline"
-author: "Names of all group members"
+author: "Student name"
 output: html_notebook
 ---
 
@@ -16,7 +16,7 @@ State your general specific question and why it is interesting.
 
 #### Data Intake 
 
-Include R code and written explanation to import your **TWO** data sets.
+Include R code and a written explanation to import your **TWO** data sets.
 
 #### Data Wrangling 
 
