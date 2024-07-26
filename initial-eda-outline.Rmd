@@ -1,6 +1,6 @@
 ---
 title: "Initial EDA Basic Outline"
-author: "Names of all group members"
+author: "Name of Student"
 output: html_notebook
 ---
 
